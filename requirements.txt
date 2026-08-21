@@ -1,5 +1,3 @@
-
-streamlit
-google-generativeai
-Pillow
-requests
+streamlit==1.38.0
+Pillow==10.4.0
+requests==2.32.3
